@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4ec7883-9c2c-4afd-822a-09df98e6f418" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/AndroidStudioProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/androidTest/java/id/ac/polinema/balonku/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/java/id/ac/polinema/balonku/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/drawable/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/drawable/balon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/drawable/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/app/src/test/java/id/ac/polinema/balonku/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Balonku/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/.idea/dictionaries/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/androidTest/java/id/ac/polinema/biodata/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/java/id/ac/polinema/biodata/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/drawable/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/drawable/ic_bookmark_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/menu/item_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Biodata/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/app/src/test/java/id/ac/polinema/kelompokredikaririsshania/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KelompokRedikaRirisShania/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/dictionaries/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/androidTest/java/id/ac/polinema/cobaintent/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/java/id/ac/polinema/cobaintent/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/java/id/ac/polinema/cobaintent/MainActivityTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/java/id/ac/polinema/cobaintent/ViewSplash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/drawable/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/layout/activity_main_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/layout/activity_view_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/app/src/test/java/id/ac/polinema/cobaintent/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Intent-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/drawable/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/drawable/kelompok.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/drawable/persegi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/drawable/persegipanjang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/drawable/segitiga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/layout/activity_hasil.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/layout/activity_view_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/layout/tab_bujur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/layout/tab_persegi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/layout/tab_segitiga.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mainan-Kalkulator-Bangun-Datar-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/androidTest/java/id/ac/polinema/mycobaactivity/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/java/id/ac/polinema/mycobaactivity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/app/src/test/java/id/ac/polinema/mycobaactivity/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyCobaActivity/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyRecycleView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyRecycleView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyRecycleView/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyRecycleView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/androidTest/java/id/ac/polinema/myintent/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/java/id/ac/polinema/myintent/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/java/id/ac/polinema/myintent/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/app/src/test/java/id/ac/polinema/myintent/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Myintent/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/androidTest/java/id/ac/polinema/shania/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/java/id/ac/polinema/shania/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/app/src/test/java/id/ac/polinema/shania/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shania/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/androidTest/java/id/ac/polinema/tabmenu/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/Biodata_fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/Intro_fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/Survey_fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/ViewSplash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/ui/main/PageViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/java/id/ac/polinema/tabmenu/ui/main/SectionsPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-hdpi/calender_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-hdpi/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-hdpi/phone_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-hdpi/sex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-hdpi/tour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-hdpi/user_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-ldpi/calender_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-ldpi/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-ldpi/phone_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-ldpi/sex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-ldpi/tour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-ldpi/user_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable-v24/kelompok.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable/mey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable/nadine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable/redika.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable/sheva.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/drawable/undraw_superhero_kguv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/layout/activity_biodata_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/layout/activity_intro_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/layout/activity_survey_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/layout/activity_view_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/app/src/test/java/id/ac/polinema/tabmenu/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TabMenu/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/androidTest/java/id/ac/polinema/travelyuk/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/java/id/ac/polinema/travelyuk/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/app/src/test/java/id/ac/polinema/travelyuk/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TravelYuk/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/Tugas2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/androidTest/java/id/ac/polinema/tugas2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/java/id/ac/polinema/tugas2/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/calender_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/phone_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/pin_drop_24px_outlined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/sex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/tour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-hdpi/user_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/calender_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/phone_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/pin_drop_24px_outlined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/sex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/tour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-ldpi/user_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/app/src/test/java/id/ac/polinema/tugas2/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adin/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cashflow-hananursa-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recyclerview-erlitaputri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../riris" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="7bc4d0c1" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/adapters/TransactionAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/Application.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/SaveActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_save.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_transaction.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="663" />
+    <option name="width" value="704" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cashflow-hananursa-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ec7883-9c2c-4afd-822a-09df98e6f418" name="Default Changelist" comment="" />
+      <created>1584595232674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584595232674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" id="Project" order="1" visible="true" weight="0.32954547" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Preview" weight="0.04621212" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Assistant" order="5" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/SaveActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_transaction.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_save.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="96" column="52" selection-start-line="96" selection-start-column="52" selection-end-line="96" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dhanifudin/cashflow/adapters/TransactionAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
